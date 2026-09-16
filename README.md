@@ -63,27 +63,18 @@ Understand → Implement → Visualize → Experiment → Question → Improve
 <td width="33%" valign="top">
 
 **🧠 Deep Learning**
-
-Hands-on implementations covering perceptrons, backpropagation, MNIST, regularization, and training techniques.
-
 [![Repo](https://img.shields.io/badge/Explore-Deep%20Learning-6C63FF?style=for-the-badge)](https://github.com/Umesh29082003/Deep-Learning)
 
 </td>
 <td width="33%" valign="top">
 
 **🤖 Bookmania Bot**
-
-A bot project built to explore automation and applied programming beyond pure ML.
-
 [![Repo](https://img.shields.io/badge/Explore-Bookmania%20Bot-6C63FF?style=for-the-badge)](https://github.com/Umesh29082003/Bookmania-Bot)
 
 </td>
 <td width="33%" valign="top">
 
 **📚 Study Buddy**
-
-A study-oriented full-stack application built using modern web technologies.
-
 [![Repo](https://img.shields.io/badge/Explore-Study%20Buddy-6C63FF?style=for-the-badge)](https://github.com/Umesh29082003/Umesh-SB)
 
 </td>
