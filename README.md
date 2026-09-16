@@ -1,16 +1,120 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Umesh29082003/Umesh29082003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Umesh Sahoo 👋
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Exploring+Intelligence+Beyond+Classical+Computing;Deep+Learning+%C3%97+Quantum+Computing;Quantum+Machine+Learning+%26+Quantum+Neural+Networks;From+Theory+to+Experiments" alt="Typing SVG" />
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-Umesh29082003-181717?style=for-the-badge&logo=github)](https://github.com/Umesh29082003)
+<img src="https://komarev.com/ghpvc/?username=Umesh29082003&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+---
+
+## 🧭 What I'm currently working on
+
+<div align="center">
+<br>
+Exploring the intersection through Quantum Machine Learning & QNNs
+
+
+I'm currently deep in **Deep Learning** and **Quantum Computing**, trying to understand not just how models and circuits work, but *why* — from backpropagation and optimization to qubits, gates, and variational circuits. My longer-term direction is the overlap between the two: **Quantum Neural Networks**.
+
+```text
+Understand → Implement → Visualize → Experiment → Question → Improve
+```
+
+</div>
+
+
+
+**Where I'm headed:**
+
+> My broader goal is to explore the intersection of learning algorithms and quantum computation — building toward practical **Quantum Neural Networks**.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,javascript,react,nodejs,express,mongodb,html,css" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🧠 Deep Learning**
+
+Hands-on implementations covering perceptrons, backpropagation, MNIST, regularization, and training techniques.
+
+[![Repo](https://img.shields.io/badge/Explore-Deep%20Learning-6C63FF?style=for-the-badge)](https://github.com/Umesh29082003/Deep-Learning)
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 Bookmania Bot**
+
+A bot project built to explore automation and applied programming beyond pure ML.
+
+[![Repo](https://img.shields.io/badge/Explore-Bookmania%20Bot-6C63FF?style=for-the-badge)](https://github.com/Umesh29082003/Bookmania-Bot)
+
+</td>
+<td width="33%" valign="top">
+
+**📚 Study Buddy**
+
+A study-oriented full-stack application built using modern web technologies.
+
+[![Repo](https://img.shields.io/badge/Explore-Study%20Buddy-6C63FF?style=for-the-badge)](https://github.com/Umesh29082003/Umesh-SB)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh29082003&hide_border=true&theme=tokyonight" />
+
+<br>
+
+
+
+
+
+
+
+---
+
+<div align="center">
+
+**Building at the intersection of Deep Learning and Quantum Computation.**
+
+Open to collaborating, learning, and building around **Deep Learning**, **Quantum Computing**, and **Quantum Machine Learning**.
+
+</div>
