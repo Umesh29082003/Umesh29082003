@@ -17,12 +17,12 @@
 <table>
 <tr>
 <td width="80" align="center">
-  <img src="https://github.com/Umesh29082003/Umesh29082003/edit/main/IISER-K_Logo.svg" width="60">
+  <img src="./IISER-K_Logo.svg" width="60">
 </td>
 
 <td>
   <b>Indian Institute of Science Education & Research (IISER), Kolkata</b><br>
-  Doctor of Philosophy, Computational and Data Science<br>
+  Doctor of Philosophy (PhD) in Computational and Data Science<br>
   <sub>Aug 2026 – Present</sub>
 </td>
 </tr>
@@ -34,12 +34,12 @@
 
 <tr>
 <td width="80" align="center">
-  <img src="https://github.com/Umesh29082003/Umesh29082003/edit/main/rav logo.png" width="60">
+  <img src="./rav logo.png" width="60">
 </td>
 
 <td>
   <b>Ravenshaw University</b><br>
-  Master of Computer Applications, Computer Science<br>
+  Master of Computer Applications (MCA), Computer Science<br>
   <sub>Jul 2024 – Jul 2026</sub><br><br>
   Grade: <b>A+</b>
 </td>
@@ -47,12 +47,12 @@
 
 <tr>
 <td width="80" align="center">
-  <img src="https://github.com/Umesh29082003/Umesh29082003/edit/main/rav logo.png" width="60">
+  <img src="./rav logo.png" width="60">
 </td>
 
 <td>
   <b>Ravenshaw University</b><br>
-  Information Technology and Management, Information Technology<br>
+  Bachelors in Information Technology and Management (BSc. ITM), Information Technology<br>
   <sub>May 2021 – Jun 2024</sub><br><br>
   Grade: <b>A+</b><br>
 </td>
@@ -130,6 +130,44 @@ Understand → Implement → Visualize → Experiment → Question → Improve
 </table>
 
 ---
+
+
+<h2>📚 Publications</h2>
+
+<table>
+<tr>
+<td width="70" align="center">
+  📖
+</td>
+
+<td>
+  <b>
+    <a href="https://link.springer.com/book/10.1007/978-3-032-22249-7">
+      Advances in Next-Generation Networking for Cyber-Physical System:
+      TCP, SDN, and Emerging Technologies
+    </a>
+  </b>
+  <br>
+  <b>Chapter:</b> SDN in Internet of Things (IoT)
+  <br>
+  <b>Authors:</b> Umesh Sahoo, Priyanka Kujur
+  <br>
+
+  <b>Pages:</b> 211–241
+  &nbsp; • &nbsp;
+  <b>Publisher:</b> Springer Nature
+  <br>
+  <sub>📅 Jul 18, 2026</sub>
+ 
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=777777&center=true&vCenter=true&width=500&lines=%E2%8F%B3+More+publications+loading...;%F0%9F%94%AC+More+research+coming+soon...;%F0%9F%93%9A+Building+the+publication+list...">
+</p>
 
 # 📈 GitHub Activity
 
