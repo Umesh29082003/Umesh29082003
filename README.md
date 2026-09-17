@@ -11,6 +11,54 @@
 </div>
 
 ---
+<div>
+<h2>🎓 Education</h2>
+
+<table>
+<tr>
+<td width="80" align="center">
+  <img src="https://github.com/Umesh29082003/Umesh29082003/edit/main/IISER-K_Logo.svg" width="60">
+</td>
+
+<td>
+  <b>Indian Institute of Science Education & Research (IISER), Kolkata</b><br>
+  Doctor of Philosophy, Computational and Data Science<br>
+  <sub>Aug 2026 – Present</sub>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+</td>
+</tr>
+
+<tr>
+<td width="80" align="center">
+  <img src="https://github.com/Umesh29082003/Umesh29082003/edit/main/rav logo.png" width="60">
+</td>
+
+<td>
+  <b>Ravenshaw University</b><br>
+  Master of Computer Applications, Computer Science<br>
+  <sub>Jul 2024 – Jul 2026</sub><br><br>
+  Grade: <b>A+</b>
+</td>
+</tr>
+
+<tr>
+<td width="80" align="center">
+  <img src="https://github.com/Umesh29082003/Umesh29082003/edit/main/rav logo.png" width="60">
+</td>
+
+<td>
+  <b>Ravenshaw University</b><br>
+  Information Technology and Management, Information Technology<br>
+  <sub>May 2021 – Jun 2024</sub><br><br>
+  Grade: <b>A+</b><br>
+</td>
+</tr>
+</table>
+</div>
 
 ## 🧭 What I'm currently working on
 
