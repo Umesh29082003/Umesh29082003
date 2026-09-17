@@ -174,14 +174,9 @@ Understand → Implement → Visualize → Experiment → Question → Improve
 <div align="center">
 
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh29082003&hide_border=true&theme=tokyonight" />
-
-<br>
-
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Umesh29082003&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
