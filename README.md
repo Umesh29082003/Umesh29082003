@@ -175,9 +175,10 @@ Understand → Implement → Visualize → Experiment → Question → Improve
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Umesh29082003&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Umesh29082003&theme=python-dark&hide_border=true&border_radius=5.4&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
 </p>
-
 
 
 
